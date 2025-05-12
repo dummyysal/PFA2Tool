@@ -1,4 +1,4 @@
-# Automated Penetration Testing Framework
+# Automated Penetration Testing Tool
 
 PFA2Tool is an open-source automated penetration testing framework designed to streamline the security assessment process. It integrates various reconnaissance, scanning, and exploitation tools into a cohesive workflow, enabling security professionals to conduct thorough assessments efficiently.
 
